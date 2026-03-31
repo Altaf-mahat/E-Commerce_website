@@ -16,10 +16,10 @@ Online Shopping eg.Flipcart
 # Fashion and Cloths
 <img width="1772" height="898" alt="image" src="https://github.com/user-attachments/assets/35b60bea-7d93-4674-8bda-ef653cc2906c" />
 
- Used Hooks: useState, useEffect, useRef, useReducer, useContext
- Integrated Fetch API & Axios
- Designed with Tailwind CSS
- Fully responsive UI
- Categories: Mobile | Electronics | Clothes | Sports | Beauty | Food
+ # Used Hooks: useState, useEffect, useRef, useReducer, useContext
+ # Integrated Fetch API & Axios
+ # Designed with Tailwind CSS
+ # Fully responsive UI
+ # Categories: Mobile | Electronics | Clothes | Sports | Beauty | Food
 
 
